@@ -1,2 +1,2 @@
 # React-UI-Components
-To create the Shared React UI Components with Different UI Libraries
+Create Shared React UI Components Across Multiple UI Libraries
